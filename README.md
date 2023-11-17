@@ -48,4 +48,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
     Maka akan muncul seperti berikut:
 
-![home-page](./public/uploads/demo.png)
+![homepage](./public/uploads/demo.png)
